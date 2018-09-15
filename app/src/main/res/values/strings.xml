@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoorDashProject</string>
+    <string name="textviewName">Name</string>
+    <string name="todo">DeafultImg</string>
+    <string name="time">Time</string>
+    <string name="description">Description</string>
+    <string name="NoDataAvailable">No Data Available</string>
+</resources>
